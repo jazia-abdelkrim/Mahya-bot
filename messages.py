@@ -1,20 +1,20 @@
 WELCOME = """السلام عليكم ورحمة الله وبركاته 🌱
 
-هنا بوت «تجميع التلاوات» من فريق «مَحيَا» 
+هنا بوت «التلاوات» من فريق «بُنيَان» 
 إذا كان لديك تسجيل صوتي لقارئ أو تريد تسجيل تلاوتك، يمكنك إرسال التلاوة هنا أو التسجيل.
 
 نسعد بسماع تلاواتكم ومشاركاتكم 🌱
 
 ⚠️ هام:
 - يتم مراجعة التلاوات قبل نشرها أو إستخدامها.
-- يمكنكم إرسال 3 تسجيلا كحد أقصى يوميا.
+- يمكنكم إرسال 3 تسجيلات كحد أقصى يوميا.
 
 قم بإرسال الملف الصوتي الآن 👇🏻
 
 
 Peace, mercy, and blessings of Allah be upon you 🌱
 
-This is the "Recitation Collection" bot by the "Mahya" team. 
+This is the "Tilawat" bot by the "Bunian" team. 
 If you have an audio recording of a reciter or would like to record your own recitation, you can send it here or record it directly.
 
 We would be delighted to listen to your recitations and receive your contributions 🌱
